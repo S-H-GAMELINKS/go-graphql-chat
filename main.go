@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/S-H-GAMELINKS/go-grapql-chat/routes"
+	"go-graphql-chat/routes"
 	"github.com/gin-gonic/gin"
 )
 
